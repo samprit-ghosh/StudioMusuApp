@@ -1,50 +1,109 @@
-# Welcome to your Expo app 👋
+Absolutely! Here's the **full markdown code** you can directly paste into your `README.md` for **Studio Musu Photography**:
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+````markdown
+# 🎥 Studio Musu Photography  || StudioMusuApp
+*A Melbourne-based Wedding Photography & Videography Website built with React, Next.js & TailwindCSS*  
 
-## Get started
+👉 **Live Demo:** [studio-musu-photography.vercel.app](https://studio-musu-photography.vercel.app/)  
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🏷️ Badges  
+![React](https://img.shields.io/badge/React-18.0-blue?logo=react)  
+![Next.js](https://img.shields.io/badge/Next.js-13-black?logo=next.js)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3-blue?logo=tailwind-css)  
+![Vercel](https://img.shields.io/badge/Hosting-Vercel-black?logo=vercel)  
+![License](https://img.shields.io/badge/License-MIT-yellow)  
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## ✨ Features
+✅ Responsive **React + Next.js Web App**  
+✅ **Photo galleries** & **wedding videos**  
+✅ **Pricing & Services** page  
+✅ **Contact Form** with Formspree integration  
+✅ Modern **TailwindCSS styling** & smooth animations  
+✅ Hosted live on **Vercel**  
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📂 Project Structure
+/
+├── public/        # Images, icons, and static assets  
+├── src/           # React & Next.js source code  
+│   ├── components/ # Reusable UI components  
+│   ├── pages/      # Web pages (Home, Gallery, Contact)  
+│   ├── styles/     # TailwindCSS + global styles  
+├── README.md       # This file  
+└── package.json    # Project dependencies  
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 🛠️ Tech Stack
+- **Frontend:** React + Next.js  
+- **Styling:** TailwindCSS  
+- **Forms:** Formspree  
+- **Hosting:** Vercel  
 
-When you're ready, run:
+---
+
+## ⚙️ Setup & Installation
+
+### 🔌 Clone the Repository
+```bash
+git clone https://github.com/yourusername/studio-musu-photography.git
+cd studio-musu-photography
+````
+
+### 🌐 Install Dependencies & Run
 
 ```bash
-npm run reset-project
+npm install
+npm run dev
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## 📸 Screenshots
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+| Home Page                                    | Gallery Page                                    | Contact Form                                    |
+| -------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![Home](https://via.placeholder.com/400x300) | ![Gallery](https://via.placeholder.com/400x300) | ![Contact](https://via.placeholder.com/400x300) |
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## 🚀 Deployment
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+* **Web:** Deployed live on **Vercel**
+* Continuous deployment via GitHub integration
+
+---
+
+## 🙌 Credits
+
+Built and designed by **Studio Musu Team**.
+Made with ❤️ using React, Next.js & TailwindCSS.
+
+---
+
+## 📜 License
+
+MIT License © 2025 Studio Musu Photography
+
+---
+
+✨ This README is ready to paste — just replace:
+
+* `https://via.placeholder.com/...` → with real screenshots
+* Any contact email or links if needed
+
+```
+
+---
+
+If you want, I can also **add a “How to contribute” section and prettier screenshot gallery** like your MyTube README so it matches that modern style perfectly.  
+
+Do you want me to do that next?
+```
