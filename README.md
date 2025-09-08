@@ -1,7 +1,5 @@
-Absolutely! Here's the **full markdown code** you can directly paste into your `README.md` for **Studio Musu Photography**:
+# 🎥 Studio Musu Photography  || StudioMusuApp 
 
-````markdown
-# 🎥 Studio Musu Photography  || StudioMusuApp
 *A Melbourne-based Wedding Photography & Videography Website built with React, Next.js & TailwindCSS*  
 
 👉 **Live Demo:** [studio-musu-photography.vercel.app](https://studio-musu-photography.vercel.app/)  
@@ -53,57 +51,24 @@ Absolutely! Here's the **full markdown code** you can directly paste into your `
 ```bash
 git clone https://github.com/yourusername/studio-musu-photography.git
 cd studio-musu-photography
-````
-
-### 🌐 Install Dependencies & Run
-
-```bash
+🌐 Install Dependencies & Run
+bash
+Copy code
 npm install
 npm run dev
-```
+Open http://localhost:3000 in your browser.
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+📸 Screenshots
+Home Page	Gallery Page	Contact Form
 
----
+🚀 Deployment
+Web: Deployed live on Vercel
 
-## 📸 Screenshots
+Continuous deployment via GitHub integration
 
-| Home Page                                    | Gallery Page                                    | Contact Form                                    |
-| -------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![Home](https://via.placeholder.com/400x300) | ![Gallery](https://via.placeholder.com/400x300) | ![Contact](https://via.placeholder.com/400x300) |
-
----
-
-## 🚀 Deployment
-
-* **Web:** Deployed live on **Vercel**
-* Continuous deployment via GitHub integration
-
----
-
-## 🙌 Credits
-
-Built and designed by **Studio Musu Team**.
+🙌 Credits
+Built and designed by Studio Musu Team.
 Made with ❤️ using React, Next.js & TailwindCSS.
 
----
-
-## 📜 License
-
+📜 License
 MIT License © 2025 Studio Musu Photography
-
----
-
-✨ This README is ready to paste — just replace:
-
-* `https://via.placeholder.com/...` → with real screenshots
-* Any contact email or links if needed
-
-```
-
----
-
-If you want, I can also **add a “How to contribute” section and prettier screenshot gallery** like your MyTube README so it matches that modern style perfectly.  
-
-Do you want me to do that next?
-```
